@@ -15,6 +15,10 @@
     .header__search-select{
         z-index: 1;
     }
+    
+    .header-with-menu{
+        display: block;
+    }
 
     .header{
         position: fixed;

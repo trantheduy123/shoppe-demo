@@ -541,6 +541,7 @@ height: 14px;
 .header-with-menu{
     margin-top: 8px;
     margin-right: 12px;
+    display: none;
 }
 
 .category__mobile{
